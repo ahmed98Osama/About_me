@@ -19,7 +19,7 @@ A Junior AI Engineer who is passionate about Data Analysis, Data Science, Machin
   
   > <a href="https://www.kaggle.com/code/khalednabil10/yalla-bean-a-gamed/notebook?scriptVersionId=97030261">Dry Beans Classification | Kaggle Competition.</a>
   
-   > <a href="https://github.com/ahmed98Osama/Head_Pose_Estimation">Dry Beans Classification | Head_Pose_Estimation.</a>
+   > <a href="https://github.com/ahmed98Osama/Head_Pose_Estimation">Head_Pose_Estimation.</a>
 <br />
   
 
