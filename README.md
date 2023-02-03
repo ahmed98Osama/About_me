@@ -11,15 +11,17 @@ A Junior AI Engineer who is passionate about Data Analysis, Data Science, Machin
  ### Data Analysis Projects:
   
 > <a href="https://github.com/ahmed98Osama/Analysis-of-US-Home-Prices-and-Median-Income-Dashboard" target="_blank">Analysis of US Home Prices and Median Income 💵💲</a>
-  
+> <a href="https://github.com/ahmed98Osama/Analysis-of-US-Home-Prices-and-Median-Income-Dashboard" target="_blank">USA-Flight-Analysis-visualization-Using-Tableau</a>
+> <a href="https://github.com/ahmed98Osama/Analyze_A-B_Test_Results_Udacity" target="_blank">Analyze A/B Test Results</a> 
 
 <br />
   
 ### Machine Learning Projects:
   
   > <a href="https://www.kaggle.com/code/khalednabil10/yalla-bean-a-gamed/notebook?scriptVersionId=97030261">Dry Beans Classification | Kaggle Competition.</a>
-  
-   > <a href="https://github.com/ahmed98Osama/Head_Pose_Estimation">Head_Pose_Estimation.</a>
+  > <a href="https://github.com/ahmed98Osama/Head_Pose_Estimation">Head Pose Estimation.</a>
+  > <a href="https://github.com/ahmed98Osama/credit_card_customer_segmentation">credit card customer segmentation.</a>
+  > <a href="https://github.com/ahmed98Osama/OFA_Image_Captioning ">Image Captioning</a>
 <br />
   
 
