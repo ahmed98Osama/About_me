@@ -24,6 +24,8 @@
 
 <br />
   
+  
+  
 ### Machine Learning Projects:
   
   > <a href="https://www.kaggle.com/code/khalednabil10/yalla-bean-a-gamed/notebook?scriptVersionId=97030261">Dry Beans Classification | Kaggle Competition.</a>
@@ -32,10 +34,30 @@
   
   > <a href="https://github.com/ahmed98Osama/credit_card_customer_segmentation">Credit Card Customer Segmentation.</a>
   
-  
   > <a href="https://github.com/ahmed98Osama/OFA_Image_Captioning ">Image Captioning</a>
   
 <br />
+  
+  
+  ### Scraping Projects:
+  
+  > <a href="https://github.com/ahmed98Osama/Dollar-to-Egyptian-Pound-Currency-Converter">Dollar to Egyptian Pound Currency Converter.</a>
+  
+  > <a href="https://github.com/ahmed98Osama/Amazon-Web-scrapping-using-selenium">Amazon scrapping selenium.</a>
+  
+  
+<br />
+  
+### Android (Native "java") Projects :
+  
+  > <a href="https://github.com/ahmed98Osama/Employee-Radar">Employee Attendance system.</a>
+  
+  > <a href="https://github.com/ahmed98Osama/Atms2">Employee Attendance system (Admin).</a>
+  
+  > <a href="https://github.com/AbdelrhmanGouda/GradutionProject">Mynida "Graduation project".</a>
+
+  
+<br />  
   
 
   
