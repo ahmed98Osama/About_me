@@ -30,7 +30,7 @@
   
   > <a href="https://github.com/ahmed98Osama/Head_Pose_Estimation">Head Pose Estimation.</a>
   
-  > <a href="https://github.com/ahmed98Osama/credit_card_customer_segmentation">credit card customer segmentation.</a>
+  > <a href="https://github.com/ahmed98Osama/credit_card_customer_segmentation">Credit Card Customer Segmentation.</a>
   
   
   > <a href="https://github.com/ahmed98Osama/OFA_Image_Captioning ">Image Captioning</a>
