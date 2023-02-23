@@ -80,11 +80,12 @@
   <br/> 
   
 
-<h3 align="center"> ===========> Projects <============ </h3>
+
   
   
   
   <table align="center">
+    <th><h3 align="center"> ===========> Projects <============ </h3></th>
   <tr>
     <td>
       <h3 align="center"> Data Analysis Projects </h3>
