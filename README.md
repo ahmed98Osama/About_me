@@ -9,7 +9,7 @@
 
 - :school: I am a `Computer Science Graduate`, department of `Software Engineering` from Faculty of Computers & Information at Kafr El-Shiekh University.
 - 🔭 I’m an `ITI Graduate` of 9 months `Artificial Intelligence Track`.
-- 💻 I’m currently `Open For Work`. <!--, This is my [Resume](https://drive.google.com/file/d/1hHz0chY7sxq3j_xmidSQf8VY-2JdhYf9/view?usp=drive_web).--> sharing
+- 💻 I’m currently `Open For Work`.  This is my [Resume](https://drive.google.com/file/d/1hHz0chY7sxq3j_xmidSQf8VY-2JdhYf9/view?usp=drive_web). sharing
 - ✨ Always enthusiast for `Innovation and creating new things`.
 
 
