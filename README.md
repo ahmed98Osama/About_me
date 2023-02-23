@@ -138,10 +138,12 @@
 <br />
   
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed98Osama&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed98Osama" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed98Osama&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed98Osama" /> 
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=ahmed98Osama&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ahmed98Osama" />
+    </p>
 
-<br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ahmed98Osama&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ahmed98Osama" /></p>
+
+
 
 
     
