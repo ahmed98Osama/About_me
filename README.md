@@ -60,7 +60,7 @@
     </td>
     </tr>
     <tr>
-     <td>
+     <td colspan="2">
       <h3 align="center"> ===> 🔧 Python Skills <=== </h3>
       <p align="center">
         <br>
