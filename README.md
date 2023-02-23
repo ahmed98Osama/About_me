@@ -85,7 +85,7 @@
   
   
   <table align="center" >
-    <tr><th><h3 align="center"> ===========> Projects <============ </h3></th></tr>
+    <caption><h3 align="center"> ===========> Projects <============ </h3></caption>
   <tr>
     <td>
       <h3 align="center"> Data Analysis Projects </h3>
