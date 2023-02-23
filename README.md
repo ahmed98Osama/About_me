@@ -3,10 +3,7 @@
 <h3 align="center"> A passionate Software Engineer interested in Softwares Develpoment , AI and Data Science😎 </h3>
 <h3 align="center"> Data Analyst | Machine Learning Enthusiast | Androider ☺  </h3> 
 <h3 align="center"> <img  align="center" src="https://komarev.com/ghpvc/?username=ahmed98Osama&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed98Osama" />  </h3>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
-</p>
+
 
 ### About Me:
 
