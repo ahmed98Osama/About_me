@@ -72,7 +72,7 @@
     
 
     	    
-
+  <h3 align="center"> ===> 🎨 visual tools  <=== </h3>
   <h3 align="center"> ===> 🔧 Python Skills <=== </h3>
   <p align="center">
     <br>
@@ -90,7 +90,7 @@
   </p>
  
   
-    <h3 align="center"> ===> 🎨 visual tools  <=== </h3>
+    <h3 align="center"> ===> 🔧 Python Skills <=== </h3>
   <p align="center">
     <br>
     <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
