@@ -1,6 +1,6 @@
 <h1 align="center"> Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" width="55" height="55">, This is Ahmed Osama </h1>
 
-<h3 align="center"> A passionate Software Engineer interested in Data Science and AI😎 /h3>
+<h3 align="center"> A passionate Software Engineer interested in Softwares Develpoment , AI and Data Science😎 </h3>
 <h3 align="center"> Data Analyst | Machine Learning Enthusiast | Androider ☺ </h3>
 
 ### About Me:
