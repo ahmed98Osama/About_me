@@ -19,7 +19,7 @@
   
 > <a href="https://github.com/ahmed98Osama/Analysis-of-US-Home-Prices-and-Median-Income-Dashboard" target="_blank">Analysis of US Home Prices and Median Income 💵💲</a>
 
-  > <a href="https://github.com/ahmed98Osama/Analysis-of-US-Home-Prices-and-Median-Income-Dashboard" target="_blank">USA-Flight-Analysis-visualization-Using-Tableau</a>
+  > <a href="https://github.com/ahmed98Osama/Analysis-of-US-Home-Prices-and-Median-Income-Dashboard" target="_blank">Flight Analysis visualization Tableau</a>
 
   > <a href="https://github.com/ahmed98Osama/Analyze_A-B_Test_Results_Udacity" target="_blank">Analyze A/B Test Results</a> 
 
