@@ -82,53 +82,9 @@
 
 <h3 align="center"> ===========> Projects <============ </h3>
   
- ### Data Analysis Projects:
-  
-> <a href="https://github.com/ahmed98Osama/Analysis-of-US-Home-Prices-and-Median-Income-Dashboard" target="_blank">Analysis of US Home Prices and Median Income 💵💲</a>
-
-  > <a href="https://github.com/ahmed98Osama/Analysis-of-US-Home-Prices-and-Median-Income-Dashboard" target="_blank">Flight Analysis visualization Tableau</a>
-
-  > <a href="https://github.com/ahmed98Osama/Analyze_A-B_Test_Results_Udacity" target="_blank">Analyze A/B Test Results</a> 
-
-<br />
   
   
-  
-### Machine Learning Projects:
-  
-  > <a href="https://www.kaggle.com/code/khalednabil10/yalla-bean-a-gamed/notebook?scriptVersionId=97030261">Dry Beans Classification | Kaggle Competition.</a>
-  
-  > <a href="https://github.com/ahmed98Osama/Head_Pose_Estimation">Head Pose Estimation.</a>
-  
-  > <a href="https://github.com/ahmed98Osama/credit_card_customer_segmentation">Credit Card Customer Segmentation.</a>
-  
-  > <a href="https://github.com/ahmed98Osama/OFA_Image_Captioning ">Image Captioning</a>
-  
-<br />
-  
-  
-  ### Scraping Projects:
-  
-  > <a href="https://github.com/ahmed98Osama/Dollar-to-Egyptian-Pound-Currency-Converter">Dollar to Egyptian Pound Currency Converter.</a>
-  
-  > <a href="https://github.com/ahmed98Osama/Amazon-Web-scrapping-using-selenium">Amazon scrapping selenium.</a>
-  
-  
-<br />
-  
-### Android (Native "java") Projects :
-  
-  > <a href="https://github.com/ahmed98Osama/Employee-Radar">Employee Attendance system.</a>
-  
-  > <a href="https://github.com/ahmed98Osama/Atms2">Employee Attendance system (Admin).</a>
-  
-  > <a href="https://github.com/AbdelrhmanGouda/GradutionProject">Mynida "Graduation project".</a>
-
-  
-<br />  
-  
-  
-  <table>
+  <table align="center">
   <tr>
     <td>
       <h3 align="center"> Data Analysis Projects </h3>
