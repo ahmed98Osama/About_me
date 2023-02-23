@@ -1,7 +1,8 @@
 <h1 align="center"> Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" width="55" height="55">, This is Ahmed Osama </h1>
 
 <h3 align="center"> A passionate Software Engineer interested in Softwares Develpoment , AI and Data Science😎 </h3>
-<h3 align="center"> Data Analyst | Machine Learning Enthusiast | Androider ☺ </h3>
+<h3 align="center"> Data Analyst | Machine Learning Enthusiast | Androider ☺ <img src="https://komarev.com/ghpvc/?username=ahmed98Osama&label=Views&&title_bg=%23555555&icon_color=%23E7E7E7&edge_flat=false" alt="ahmed98Osama" >  </h3> 
+
 
 ### About Me:
 
@@ -125,7 +126,7 @@
   
 
   
-### Connect with me:
+### Contact with me:
 
 <a href="https://www.kaggle.com/ahmed98osama" target="blank">
   <img align="left" alt="Github" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
@@ -141,9 +142,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed98Osama&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed98Osama" /> 
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=ahmed98Osama&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ahmed98Osama" />
     </p>
-
-
-
-
-
-    
