@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td>
-      <h3 align="center"> ===> 📋 Languages <=== </h3>
+      <h3 align="center">  📋 Languages  </h3>
       <p align="center">
         <br>
         <img align="center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
@@ -26,7 +26,7 @@
       </p>
     </td>
     <td>
-      <h3 align="center"> ===> 💻 IDEs/Editors <=== </h3>
+      <h3 align="center">  💻 IDEs/Editors  </h3>
       <p align="center">
         <br>
         <img align="center" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td>
-      <h3 align="center"> ===> 💾 Databases <=== </h3>
+      <h3 align="center">  💾 Databases </h3>
       <p align="center">
         <br>
         <img align="center" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
@@ -49,7 +49,7 @@
       </p>
     </td>
      <td>
-      <h3 align="center"> ===> 🎨 visual tools  <=== </h3>
+      <h3 align="center">  🎨 visual tools   </h3>
       <p align="center">
         <br>
         <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
@@ -61,7 +61,7 @@
     </tr>
     <tr>
      <td colspan="2">
-      <h3 align="center"> ===> 🔧 Python Skills <=== </h3>
+      <h3 align="center">  🔧 Python Skills  </h3>
       <p align="center">
         <br>
         <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -86,7 +86,7 @@
   
   
   <table align="center" >
-    <caption><h3 align="center"> ===========> Projects <============ </h3></caption>
+    <caption><h3 align="center"> ==> Projects <== </h3></caption>
   <tr>
     <td>
       <h3 align="center"> Data Analysis Projects </h3>
